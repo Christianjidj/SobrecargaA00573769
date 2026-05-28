@@ -23,6 +23,11 @@ ejemplo4
 
 ejemplo5
 
+
 <img width="1238" height="597" alt="image" src="https://github.com/user-attachments/assets/bf2e3e2a-d330-46a8-a951-37459530ec3d" />
 
+ejemplo6
+
+
+<img width="1024" height="635" alt="image" src="https://github.com/user-attachments/assets/8e1d6ef3-b421-4115-a46d-67d7c9e72162" />
 
